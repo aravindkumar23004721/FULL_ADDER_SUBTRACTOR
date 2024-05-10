@@ -62,10 +62,10 @@ Full subtractor
 5. For different input combinations generate the timing diagram.
 
 **Program:**
-
+```
 Developed by:Aravind kumar SS
 Reg no:212223110004
-
+```
 
 ```
 module FULL_addsub(a,b,cin,sum,carry,BO,DIFF);
